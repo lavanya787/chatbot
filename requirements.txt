@@ -1,0 +1,12 @@
+streamlit
+pandas
+nltk
+scikit-learn
+spacy 
+transformers 
+torch 
+tensorflow 
+tf-keras 
+pandas 
+PyPDF2 
+streamlit
